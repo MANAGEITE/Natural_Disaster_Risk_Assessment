@@ -12,8 +12,8 @@ b- Convert the data into the required format for spatial analysis.
 a- Identify potential vulnerability factors for each type of natural disaster (floods, earthquakes, wildfires)..<br/>
 b- Use spatial analysis methods to assess the impact of these factors on the vulnerability of the area.
 # 4. Modeling:
-a- Develop a GIS model that integrates the identified data and vulnerability factors.
-b- Utilize GIS modeling tools to simulate different scenarios of natural disasters and assess their impact on the studied area .<br/>
+a- Develop a GIS model that integrates the identified data and vulnerability factors..<br/>
+b- Utilize GIS modeling tools to simulate different scenarios of natural disasters and assess their impact on the studied area .
 # 5. Risk Assessment:
 a- Estimate the risks associated with each type of natural disaster based on the vulnerability of the area and the probability of occurrence. .<br/>
 b- Map high-risk areas and identify sensitive zones requiring special attention.
