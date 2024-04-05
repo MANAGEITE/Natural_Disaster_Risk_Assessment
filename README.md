@@ -1,7 +1,7 @@
 # Natural_Disaster_Risk_Assessment
 # 1. Data Collection:
-1 Geographic data: maps, satellite imagery, topographic data, etc.
-2 Environmental data: precipitation, temperature, humidity, etc.
+1 Geographic data: maps, satellite imagery, topographic data, etc.<br/>
+2 Environmental data: precipitation, temperature, humidity, etc.<br/>
 3 Demographic data: population density, housing distribution, etc.
 4 Infrastructure data: roads, bridges, buildings, etc.
 5 Historical data on natural disasters.
